@@ -29,7 +29,7 @@ def dijkstart(start):
                 distance[i[0]] = dist+i[1]
                 heapq.heappush(q,(dist+i[1],i[0]))
 
-              
+
 
 
 

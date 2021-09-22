@@ -6,7 +6,6 @@ def quick(array,start,end):
     if start >= end:
         return
     pivot = start
-    #피봇 제외한것
     left = start + 1
     right = end
 
