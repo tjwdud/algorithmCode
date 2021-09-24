@@ -1,2 +1,2 @@
 language = "python3"
-run = "python PythonCode/sort/middle.py"
+run = "python PythonCode/sort/biggestNum.py"
