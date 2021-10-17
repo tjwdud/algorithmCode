@@ -1,2 +1,2 @@
 language = "python3"
-run = "python PythonCode/sort/biggestNum.py"
+run = "python PythonCode/fullSearch/sampleTest.py"
