@@ -1,2 +1,2 @@
 language = "python3"
-run = "python PythonCode/hash/unsuccess.py"
+run = "python PythonCode/hash/spy.py"
